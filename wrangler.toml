@@ -8,7 +8,7 @@ pages_build_output_dir = ".vercel/output/static"
 [env.production.vars]
 GITHUB_ID = "Ov23liJLnM7G84walI14"
 GITHUB_OWNER = "xiao429887822"
-GITHUB_REPO = "navdemo"
+GITHUB_REPO = "NavSphere"
 GITHUB_BRANCH = "main"
 NEXTAUTH_URL = "https://dh.leti.ltd/api/auth"
 NEXT_PUBLIC_API_URL="https://dh.leti.ltd"
