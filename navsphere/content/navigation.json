@@ -116,7 +116,16 @@
           "enabled": true
         }
       ],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "8f2ae39d-4860-4f6e-a621-08b1edb6aaa6",
+          "title": "搜索引擎",
+          "icon": "Search",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
