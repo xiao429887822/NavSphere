@@ -136,6 +136,14 @@
               "description": "爱奇艺-在线视频网站-海量正版高清视频在线观看",
               "icon": "/assets/favicon_1754558741013.ico",
               "enabled": true
+            },
+            {
+              "id": "1754558783580",
+              "title": "优酷 - 为好内容全力以赴",
+              "href": "https://www.youku.com/ku/webhome",
+              "description": "优酷 - 为好内容全力以赴，视频服务平台,提供视频播放,视频发布,视频搜索,视频分享",
+              "icon": "/assets/favicon_1754558789068.png",
+              "enabled": true
             }
           ]
         },
