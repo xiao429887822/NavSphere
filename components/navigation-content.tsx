@@ -140,7 +140,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
             </div>
             <div className="flex items-center gap-1">
               <ModeToggle />
-              <!--
+              {/*
               <Link
                 href="https://github.com/tianyaxiang/NavSphere"
                 target="_blank"
@@ -169,7 +169,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   <HelpCircle className="h-5 w-5" />
                 </Button>
               </Link>
-              -->
+               */}
               <Button
                 variant="ghost"
                 size="icon"
