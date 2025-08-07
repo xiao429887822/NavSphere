@@ -65,6 +65,14 @@
               "description": "豆包是你的 AI 聊天智能对话问答助手，写作文案翻译编程全能工具。豆包为你答疑解惑，提供灵感，辅助创作，也可以和你畅聊任何你感兴趣的话题。",
               "icon": "/assets/favicon_1754578237988.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754578286458_3kzu6327i",
+              "title": "扣子空间 | AI办公助手 - 复杂任务高效处理",
+              "href": "https://space.coze.cn/",
+              "description": "办公效率低？扣子空间AI助手支持播客生成、PPT制作、网页开发及报告写作，覆盖科研、商业、舆情等领域的专家 Agent 7x24小时响应，生活工作无缝切换，提升50%效率！",
+              "icon": "/assets/favicon_1754578280054.ico",
+              "enabled": true
             }
           ]
         }
