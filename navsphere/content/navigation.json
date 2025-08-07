@@ -1011,6 +1011,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754577577734",
+      "title": "AI工具集",
+      "icon": "Brain",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
