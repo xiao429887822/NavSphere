@@ -162,6 +162,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "6ec91e18-bd42-4eb7-8c75-900eeeeff9cf",
+          "title": "娱乐",
+          "icon": "Star",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
