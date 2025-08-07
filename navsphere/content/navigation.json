@@ -1029,6 +1029,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754577722718",
+      "title": "百宝箱",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
