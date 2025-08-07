@@ -664,6 +664,24 @@
       ]
     },
     {
+      "id": "1754538127931",
+      "title": "综合门户",
+      "icon": "FolderKanban",
+      "description": "综合门户网站",
+      "enabled": true,
+      "items": [
+        {
+          "id": "site_1754538197479_if7lw05ft",
+          "title": "百度",
+          "href": "www.baidu.com",
+          "description": "百度网",
+          "icon": "",
+          "enabled": true
+        }
+      ],
+      "subCategories": []
+    },
+    {
       "id": "2",
       "title": "常用工具",
       "icon": "Laptop",
@@ -842,24 +860,6 @@
       ],
       "description": "",
       "enabled": true
-    },
-    {
-      "id": "1754538127931",
-      "title": "综合门户",
-      "icon": "FolderKanban",
-      "description": "综合门户网站",
-      "enabled": true,
-      "items": [
-        {
-          "id": "site_1754538197479_if7lw05ft",
-          "title": "百度",
-          "href": "www.baidu.com",
-          "description": "百度网",
-          "icon": "",
-          "enabled": true
-        }
-      ],
-      "subCategories": []
     }
   ]
 }
