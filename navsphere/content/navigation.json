@@ -245,7 +245,16 @@
           "icon": "LayoutList",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1736913194873",
+              "title": "公众号助手",
+              "href": "https://mp.weixin.qq.com/",
+              "description": "公众号管理平台",
+              "icon": "/assets/img_1736913249592.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
@@ -655,14 +664,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1736913194873",
-              "title": "公众号助手",
-              "href": "https://mp.weixin.qq.com/",
-              "description": "公众号管理平台",
-              "icon": "/assets/img_1736913249592.png",
-              "enabled": true
-            },
             {
               "id": "1736912858570",
               "title": "视频号助手",
