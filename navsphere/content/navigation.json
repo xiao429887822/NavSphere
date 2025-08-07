@@ -226,6 +226,14 @@
               "description": "金山办公，金山文档",
               "icon": "/assets/favicon_1754578346004.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754578796729_3255kt4vq",
+              "title": "腾讯文档-官方网站",
+              "href": "https://docs.qq.com/",
+              "description": "腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档",
+              "icon": "/assets/favicon_1754578767866.ico",
+              "enabled": true
             }
           ]
         }
