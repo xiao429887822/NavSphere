@@ -1,6 +1,33 @@
 {
   "navigationItems": [
     {
+      "id": "1754538127931",
+      "title": "综合门户",
+      "icon": "FolderKanban",
+      "description": "综合门户网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "8f2ae39d-4860-4f6e-a621-08b1edb6aaa6",
+          "title": "搜索引擎",
+          "icon": "Search",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "site_1754538197479_if7lw05ft",
+              "title": "百度一下，你就知道",
+              "href": "https://www.baidu.com/",
+              "description": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
+              "icon": "/assets/favicon_1754554111289.ico",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1754558058548",
       "title": "影音娱乐",
       "icon": "LayoutGrid",
@@ -97,33 +124,6 @@
           "description": "",
           "enabled": true,
           "items": []
-        }
-      ]
-    },
-    {
-      "id": "1754538127931",
-      "title": "综合门户",
-      "icon": "FolderKanban",
-      "description": "综合门户网站",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "8f2ae39d-4860-4f6e-a621-08b1edb6aaa6",
-          "title": "搜索引擎",
-          "icon": "Search",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "site_1754538197479_if7lw05ft",
-              "title": "百度一下，你就知道",
-              "href": "https://www.baidu.com/",
-              "description": "全球领先的中文搜索引擎、致力于让网民更便捷地获取信息，找到所求。百度超过千亿的中文网页数据库，可以瞬间找到相关的搜索结果。",
-              "icon": "/assets/favicon_1754554111289.ico",
-              "enabled": true
-            }
-          ]
         }
       ]
     },
