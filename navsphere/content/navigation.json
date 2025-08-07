@@ -99,6 +99,49 @@
       "enabled": true
     },
     {
+      "id": "1754558058548",
+      "title": "影音娱乐",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "b2e4aab4-38ab-480e-95b1-70db07641401",
+          "title": "影视",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1754558243842",
+              "title": "腾讯视频-中国领先的在线视频媒体平台,海量高清视频在线观看",
+              "href": "https://v.qq.com/",
+              "description": "腾讯视频致力于打造中国领先的在线视频媒体平台，以丰富的内容、极致的观看体验、便捷的登录方式、多平台无缝应用体验以及快捷分享的产品特性，主要满足用户在线观看视频的需求。",
+              "icon": "/assets/favicon_1754558280132.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "ac049537-f08c-4c14-bf86-dfca9b4f5493",
+          "title": "音乐",
+          "icon": "Music",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
+          "id": "b77eb83c-1d7c-4f20-bd1f-cc0539d3cba0",
+          "title": "游戏",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
+    },
+    {
       "id": "9",
       "title": "AI工具包",
       "icon": "Brain",
@@ -858,49 +901,6 @@
               "enabled": true
             }
           ]
-        }
-      ]
-    },
-    {
-      "id": "1754558058548",
-      "title": "影音娱乐",
-      "icon": "LayoutGrid",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "b2e4aab4-38ab-480e-95b1-70db07641401",
-          "title": "影视",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1754558243842",
-              "title": "腾讯视频-中国领先的在线视频媒体平台,海量高清视频在线观看",
-              "href": "https://v.qq.com/",
-              "description": "腾讯视频致力于打造中国领先的在线视频媒体平台，以丰富的内容、极致的观看体验、便捷的登录方式、多平台无缝应用体验以及快捷分享的产品特性，主要满足用户在线观看视频的需求。",
-              "icon": "/assets/favicon_1754558280132.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "ac049537-f08c-4c14-bf86-dfca9b4f5493",
-          "title": "音乐",
-          "icon": "Music",
-          "description": "",
-          "enabled": true,
-          "items": []
-        },
-        {
-          "id": "b77eb83c-1d7c-4f20-bd1f-cc0539d3cba0",
-          "title": "游戏",
-          "icon": "Box",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     }
