@@ -1073,6 +1073,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754578454933",
+      "title": "自媒体",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
