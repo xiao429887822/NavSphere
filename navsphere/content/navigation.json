@@ -232,6 +232,15 @@
       ]
     },
     {
+      "id": "1754578454933",
+      "title": "自媒体",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1073,15 +1082,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754578454933",
-      "title": "自媒体",
-      "icon": "LayoutGrid",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
