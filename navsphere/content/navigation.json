@@ -161,7 +161,16 @@
           "icon": "Star",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754558870191",
+              "title": "AcFun弹幕视频网 - 认真你就输啦 (・ω・)ノ- ( ゜- ゜)つロ",
+              "href": "https://www.acfun.cn/",
+              "description": "AcFun是国内首家弹幕视频网站，这里有全网独家动漫新番， 友好的弹幕氛围，有趣的UP主，好玩有科技感的虚拟偶像，年轻人都在用。",
+              "icon": "/assets/favicon_1754558877084.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "b77eb83c-1d7c-4f20-bd1f-cc0539d3cba0",
