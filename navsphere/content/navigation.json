@@ -842,6 +842,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754538127931",
+      "title": "综合门户",
+      "icon": "FolderKanban",
+      "description": "综合门户网站",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
