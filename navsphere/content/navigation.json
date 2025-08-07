@@ -238,7 +238,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "1d96d21b-4854-411e-b026-b4493377155c",
+          "title": "自媒体平台",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1",
