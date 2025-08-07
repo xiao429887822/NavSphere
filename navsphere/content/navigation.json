@@ -849,7 +849,16 @@
       "icon": "FolderKanban",
       "description": "综合门户网站",
       "enabled": true,
-      "items": [],
+      "items": [
+        {
+          "id": "site_1754538197479_if7lw05ft",
+          "title": "百度",
+          "href": "www.baidu.com",
+          "description": "百度网",
+          "icon": "",
+          "enabled": true
+        }
+      ],
       "subCategories": []
     }
   ]
