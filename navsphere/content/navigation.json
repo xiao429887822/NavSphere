@@ -884,6 +884,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "b77eb83c-1d7c-4f20-bd1f-cc0539d3cba0",
+          "title": "游戏",
+          "icon": "Box",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     }
