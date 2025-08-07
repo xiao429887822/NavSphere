@@ -50,7 +50,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "dbd7e67d-1ae6-41ae-a4db-5b09bebcfe21",
+          "title": "AI助手",
+          "icon": "Brain",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754558058548",
