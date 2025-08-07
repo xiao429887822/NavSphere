@@ -218,7 +218,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754578342084",
+              "title": "金山办公",
+              "href": "https://account.wps.cn/",
+              "description": "金山办公，金山文档",
+              "icon": "/assets/favicon_1754578346004.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
