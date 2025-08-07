@@ -860,6 +860,15 @@
           ]
         }
       ]
+    },
+    {
+      "id": "1754558058548",
+      "title": "影音娱乐",
+      "icon": "FolderKanban",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
