@@ -188,6 +188,15 @@
       ]
     },
     {
+      "id": "1754577722718",
+      "title": "百宝箱",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1",
       "title": "常用推荐",
       "icon": "Star",
@@ -1029,15 +1038,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754577722718",
-      "title": "百宝箱",
-      "icon": "LayoutGrid",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     }
   ]
 }
