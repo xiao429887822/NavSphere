@@ -123,7 +123,16 @@
           "icon": "Box",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754577294438",
+              "title": "一起DIY吧_用心创造，成就自我",
+              "href": "https://www.diy8.top/",
+              "description": "一起DIY吧_用心创造，成就自我",
+              "icon": "/assets/favicon_1754577303279.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
