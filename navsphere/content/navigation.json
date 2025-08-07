@@ -62,6 +62,15 @@
       ]
     },
     {
+      "id": "1754577722718",
+      "title": "百宝箱",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1754558058548",
       "title": "影音娱乐",
       "icon": "LayoutGrid",
@@ -186,15 +195,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754577722718",
-      "title": "百宝箱",
-      "icon": "LayoutGrid",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "1",
