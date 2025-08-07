@@ -128,6 +128,14 @@
               "description": "芒果TV-大家都在看的在线视频网站-热门综艺最新电影电视剧在线观看",
               "icon": "/assets/favicon_1754558704256.ico",
               "enabled": true
+            },
+            {
+              "id": "1754558723761",
+              "title": "爱奇艺",
+              "href": "https://www.iqiyi.com/",
+              "description": "爱奇艺-在线视频网站-海量正版高清视频在线观看",
+              "icon": "/assets/favicon_1754558741013.ico",
+              "enabled": true
             }
           ]
         },
