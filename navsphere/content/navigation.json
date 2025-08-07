@@ -90,7 +90,16 @@
           "icon": "Music",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754577346799",
+              "title": "酷狗音乐 - 就是歌多！小说相声也很多！",
+              "href": "https://www.kugou.com/",
+              "description": "酷狗音乐在线正版音乐网站，为您提供酷狗音乐播放器下载 、在线音乐试听下载，提供听书、长音频、频道、听小说和MV播放服务。酷狗音乐，就是歌多！小说相声也很多！场景音乐也很多！",
+              "icon": "/assets/favicon_1754577353304.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "6ec91e18-bd42-4eb7-8c75-900eeeeff9cf",
