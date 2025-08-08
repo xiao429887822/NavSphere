@@ -309,6 +309,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "318c339b-617e-4d44-ae8c-3f3918fd291c",
+          "title": "邮箱",
+          "icon": "Mail",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
