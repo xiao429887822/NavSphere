@@ -542,6 +542,14 @@
               "description": "ProccessOn是一款优秀的国产在线协作画图软件，非常好用，也非常漂亮。专业强大的作图工具，支持多人实时在线协作，可用于原型图、UML、BPMN、网络拓扑图等多种图形绘制\n",
               "icon": "/assets/img_1736922262462.png",
               "enabled": true
+            },
+            {
+              "id": "1751433573273",
+              "title": "shadcn ui  Theme",
+              "href": "https://tweakcn.com/",
+              "description": "Design Your Perfect \nshadcn/ui\n Theme\nCustomize colors, typography, and layouts with a real-time preview. No signup required.",
+              "icon": "/assets/img_1751433579053.png",
+              "enabled": true
             }
           ]
         },
@@ -1005,14 +1013,6 @@
               "href": "https://ui.shadcn.com/",
               "description": "Build your component library\nBeautifully designed components that you can copy and paste into your apps. Made with Tailwind CSS. Open source.",
               "icon": "/assets/img_1735265752690.png",
-              "enabled": true
-            },
-            {
-              "id": "1751433573273",
-              "title": "shadcn ui  Theme",
-              "href": "https://tweakcn.com/",
-              "description": "Design Your Perfect \nshadcn/ui\n Theme\nCustomize colors, typography, and layouts with a real-time preview. No signup required.",
-              "icon": "/assets/img_1751433579053.png",
               "enabled": true
             }
           ]
