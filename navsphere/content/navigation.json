@@ -104,6 +104,14 @@
               "description": "天猫商城是一个购物平台，更是一种生活方式。天猫凭借丰富的家电、手机、电脑、服装、居家、母婴、美妆、个护、食品等众多商品种类及包含众多品牌官方旗舰店、优质的服务和便捷的购物体验，成为了消费者心中信赖的综合性购物商城。",
               "icon": "/assets/favicon_1754623745853.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754623779676_vn7bskgm0",
+              "title": "JD.com, Inc.",
+              "href": "https://www.jd.com/",
+              "description": "JD.com is the largest retailer in China, a member of the NASDAQ100 and a Fortune Global 500 company.",
+              "icon": "/assets/favicon_1754623769173.ico",
+              "enabled": true
             }
           ]
         }
