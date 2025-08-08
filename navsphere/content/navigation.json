@@ -349,7 +349,16 @@
           "icon": "Database",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754617554908",
+              "title": "百度网盘",
+              "href": "https://pan.baidu.com/",
+              "description": "百度网盘-免费云盘丨文件共享软件丨超大容量丨存储安全",
+              "icon": "https://pan.baidu.com/favicon.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
