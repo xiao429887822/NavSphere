@@ -1024,6 +1024,14 @@
               "description": "全球3000万中小企业用户使用的在线平面设计工具，MAKA免费提供海量精美平面设计素材，快速在线PS，随时随地编辑设计模板，一键搞定设计，支持下载高清素材图片。",
               "icon": "/assets/favicon_1754624725452.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754643574532_csf4r9ec9",
+              "title": "站长工具 - 站长之家",
+              "href": "https://tool.chinaz.com/",
+              "description": "站长工具是站长的必备工具。经常上站长工具可以了解SEO数据变化。还可以检测网站死链接、蜘蛛访问、HTML格式检测、网站速度测试、友情链接检查、网站域名IP查询、PR、权重查询、alexa、whois查询等等。",
+              "icon": "/assets/favicon_1754643563360.ico",
+              "enabled": true
             }
           ]
         },
