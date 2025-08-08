@@ -680,6 +680,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "c967d604-8f9f-4044-92e5-be29463e88b9",
+          "title": "银行",
+          "icon": "Home",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
