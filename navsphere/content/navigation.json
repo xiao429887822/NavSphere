@@ -96,14 +96,6 @@
               "description": "JD.com is the largest retailer in China, a member of the NASDAQ100 and a Fortune Global 500 company.",
               "icon": "/assets/favicon_1754623769173.ico",
               "enabled": true
-            },
-            {
-              "id": "site_1754623820212_oftfev1hu",
-              "title": "苏宁易购(Suning.com)-换新到苏宁 省钱更省心！",
-              "href": "https://www.suning.com/",
-              "description": "苏宁易购(Suning.com)-线上线下深度融合的零售平台,商品涵盖家电、手机、电脑、超市、母婴、百货、海外购等品类。换新到苏宁 省钱更省心！五重补贴 买贵就赔 多重保障 一站换新。 正品行货、全国联保、可门店自提,全网更低价,家电家装成套购,专注服务省心购!",
-              "icon": "/assets/favicon_1754623811357.ico",
-              "enabled": true
             }
           ]
         }
@@ -670,6 +662,14 @@
               "href": "https://www.tmall.com/",
               "description": "天猫商城是一个购物平台，更是一种生活方式。天猫凭借丰富的家电、手机、电脑、服装、居家、母婴、美妆、个护、食品等众多商品种类及包含众多品牌官方旗舰店、优质的服务和便捷的购物体验，成为了消费者心中信赖的综合性购物商城。",
               "icon": "/assets/favicon_1754623745853.png",
+              "enabled": true
+            },
+            {
+              "id": "site_1754623820212_oftfev1hu",
+              "title": "苏宁易购(Suning.com)-换新到苏宁 省钱更省心！",
+              "href": "https://www.suning.com/",
+              "description": "苏宁易购(Suning.com)-线上线下深度融合的零售平台,商品涵盖家电、手机、电脑、超市、母婴、百货、海外购等品类。换新到苏宁 省钱更省心！五重补贴 买贵就赔 多重保障 一站换新。 正品行货、全国联保、可门店自提,全网更低价,家电家装成套购,专注服务省心购!",
+              "icon": "/assets/favicon_1754623811357.ico",
               "enabled": true
             }
           ]
