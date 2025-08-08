@@ -98,6 +98,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "691f762e-1c1a-4091-82ae-58a1d505df84",
+          "title": "行业信息",
+          "icon": "Laptop",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
