@@ -38,6 +38,14 @@
               "description": "搜狗搜索是全球第三代互动式搜索引擎，支持微信公众号和文章搜索、知乎搜索、英文搜索及翻译等，通过自主研发的人工智能算法为用户提供专业、精准、便捷的搜索服务。",
               "icon": "/assets/favicon_1754577507734.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754622329668_elaqr6bjq",
+              "title": "搜片.com - 搜你想看的影片",
+              "href": "https://soupian.plus/",
+              "description": "搜片.com 聚合全网影片，你想看的全都找得到！每天搜集最新电影、电视剧、在线观看网址、蓝光高清正版免费看！",
+              "icon": "/assets/favicon_1754622318742.ico",
+              "enabled": true
             }
           ]
         }
