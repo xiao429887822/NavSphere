@@ -357,6 +357,14 @@
               "description": "百度网盘-免费云盘丨文件共享软件丨超大容量丨存储安全",
               "icon": "https://pan.baidu.com/favicon.ico",
               "enabled": true
+            },
+            {
+              "id": "1754617627500",
+              "title": "阿里云盘 - 备份无忧 整理有序·阿里巴巴集团出品",
+              "href": "https://www.alipan.com/",
+              "description": "阿里云盘是一款速度快、不打扰、够安全、易于分享的个人网盘，欢迎你来体验。",
+              "icon": "/assets/favicon_1754617630009.ico",
+              "enabled": true
             }
           ]
         }
