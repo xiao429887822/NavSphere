@@ -157,6 +157,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "bcfe4bd4-7efb-4771-84b6-f131cd5d00f1",
+          "title": "AI编程",
+          "icon": "Edit",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
