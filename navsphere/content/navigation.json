@@ -113,6 +113,14 @@
               "description": "汽车之家为您提供最新汽车报价，汽车图片，汽车价格大全，最精彩的汽车新闻、行情、评测、导购内容，是提供信息最快最全的中国汽车网站",
               "icon": "/assets/favicon_1754625681303.ico",
               "enabled": true
+            },
+            {
+              "id": "1754625711849",
+              "title": "中关村在线",
+              "href": "https://www.zol.com.cn/",
+              "description": " The valuable and professional IT business website in Greater China",
+              "icon": "/assets/favicon_1754625717076.ico",
+              "enabled": true
             }
           ]
         }
