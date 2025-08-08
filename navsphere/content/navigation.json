@@ -671,7 +671,16 @@
           "icon": "User",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754624405548_s3925xw6u",
+              "title": "中国铁路12306网站",
+              "href": "https://www.12306.cn/index/",
+              "description": "",
+              "icon": "/assets/favicon_1754624396293.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c967d604-8f9f-4044-92e5-be29463e88b9",
