@@ -88,16 +88,7 @@
           "icon": "Coffee",
           "description": "",
           "enabled": true,
-          "items": [
-            {
-              "id": "site_1754623779676_vn7bskgm0",
-              "title": "JD.com, Inc.",
-              "href": "https://www.jd.com/",
-              "description": "JD.com is the largest retailer in China, a member of the NASDAQ100 and a Fortune Global 500 company.",
-              "icon": "/assets/favicon_1754623769173.ico",
-              "enabled": true
-            }
-          ]
+          "items": []
         }
       ]
     },
@@ -670,6 +661,14 @@
               "href": "https://www.suning.com/",
               "description": "苏宁易购(Suning.com)-线上线下深度融合的零售平台,商品涵盖家电、手机、电脑、超市、母婴、百货、海外购等品类。换新到苏宁 省钱更省心！五重补贴 买贵就赔 多重保障 一站换新。 正品行货、全国联保、可门店自提,全网更低价,家电家装成套购,专注服务省心购!",
               "icon": "/assets/favicon_1754623811357.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1754623779676_vn7bskgm0",
+              "title": "JD.com, Inc.",
+              "href": "https://www.jd.com/",
+              "description": "JD.com is the largest retailer in China, a member of the NASDAQ100 and a Fortune Global 500 company.",
+              "icon": "/assets/favicon_1754623769173.ico",
               "enabled": true
             }
           ]
