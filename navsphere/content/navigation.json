@@ -279,6 +279,14 @@
               "description": "电视迷是一家专注于港剧的影视网站,是业内更新速度最快,港剧最全的网站之一,我们一直会努力为更多港剧影迷朋友更新更多港剧!",
               "icon": "/assets/favicon_1754621578969.ico",
               "enabled": true
+            },
+            {
+              "id": "1754621596455",
+              "title": "电影港",
+              "href": "https://www.dygang.net/",
+              "description": "电影港 高清电影下载",
+              "icon": "/assets/favicon_1754621597661.ico",
+              "enabled": true
             }
           ]
         },
