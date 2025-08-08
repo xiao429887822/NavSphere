@@ -311,6 +311,14 @@
               "description": "",
               "icon": "",
               "enabled": true
+            },
+            {
+              "id": "site_1754622458540_efrq5e1ix",
+              "title": "80s手机电影网",
+              "href": "https://y80s.tv/",
+              "description": "80s手机电影网",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
