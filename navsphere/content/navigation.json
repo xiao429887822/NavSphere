@@ -429,6 +429,14 @@
               "description": "在线UI设计工具",
               "icon": "/assets/images/logos/figma.png",
               "enabled": true
+            },
+            {
+              "id": "6_2",
+              "title": "principle",
+              "href": "http://principleformac.com/",
+              "description": "Animate Your Ideas, Design Better Apps",
+              "icon": "/assets/images/logos/principle.png",
+              "enabled": true
             }
           ]
         },
@@ -1008,14 +1016,6 @@
               "href": "https://www.adobe.com/cn/products/aftereffects/",
               "description": "电影般的视觉效果和动态图形。",
               "icon": "/assets/images/logos/AdobeAfterEffectsCC.png",
-              "enabled": true
-            },
-            {
-              "id": "6_2",
-              "title": "principle",
-              "href": "http://principleformac.com/",
-              "description": "Animate Your Ideas, Design Better Apps",
-              "icon": "/assets/images/logos/principle.png",
               "enabled": true
             },
             {
