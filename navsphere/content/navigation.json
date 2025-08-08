@@ -371,7 +371,16 @@
           "icon": "BookOpen",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754622015913",
+              "title": "日本漫畫_在線漫畫閱讀第一站_yymanhua",
+              "href": "https://www.yymanhua.com/",
+              "description": "yymanhua是全網資源最全的在線漫畫、日本漫畫閱讀平臺。擁有時下最熱門的日漫作品：鬼滅之刃、一拳超人256、海賊王1151、火影忍者、死神等。超快的更新速度，第一時間為你奉上極致的閱讀體驗。",
+              "icon": "/assets/favicon_1754622017596.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
