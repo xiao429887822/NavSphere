@@ -90,14 +90,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "site_1754623752092_j44tehxwh",
-              "title": "天猫Tmall.com - 买正品上天猫就购了",
-              "href": "https://www.tmall.com/",
-              "description": "天猫商城是一个购物平台，更是一种生活方式。天猫凭借丰富的家电、手机、电脑、服装、居家、母婴、美妆、个护、食品等众多商品种类及包含众多品牌官方旗舰店、优质的服务和便捷的购物体验，成为了消费者心中信赖的综合性购物商城。",
-              "icon": "/assets/favicon_1754623745853.png",
-              "enabled": true
-            },
-            {
               "id": "site_1754623779676_vn7bskgm0",
               "title": "JD.com, Inc.",
               "href": "https://www.jd.com/",
@@ -670,6 +662,14 @@
               "href": "https://www.taobao.com/",
               "description": "淘宝网 - 亚洲较大的网上交易平台，提供各类服饰、美容、家居、数码、话费/点卡充值… 数亿优质商品，同时提供担保交易(先收货后付款)等安全交易保障服务，并由商家提供退货承诺、破损补寄等消费者保障服务，让你安心享受网上购物乐趣！",
               "icon": "/assets/favicon_1754623721027.ico",
+              "enabled": true
+            },
+            {
+              "id": "site_1754623752092_j44tehxwh",
+              "title": "天猫Tmall.com - 买正品上天猫就购了",
+              "href": "https://www.tmall.com/",
+              "description": "天猫商城是一个购物平台，更是一种生活方式。天猫凭借丰富的家电、手机、电脑、服装、居家、母婴、美妆、个护、食品等众多商品种类及包含众多品牌官方旗舰店、优质的服务和便捷的购物体验，成为了消费者心中信赖的综合性购物商城。",
+              "icon": "/assets/favicon_1754623745853.png",
               "enabled": true
             }
           ]
