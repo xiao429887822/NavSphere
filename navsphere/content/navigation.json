@@ -1404,6 +1404,15 @@
       ],
       "description": "",
       "enabled": false
+    },
+    {
+      "id": "1754623364336",
+      "title": "学习教育",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
