@@ -437,6 +437,14 @@
               "description": "Animate Your Ideas, Design Better Apps",
               "icon": "/assets/images/logos/principle.png",
               "enabled": true
+            },
+            {
+              "id": "6_3",
+              "title": "flinto",
+              "href": "https://www.flinto.com/",
+              "description": "Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.",
+              "icon": "/assets/images/logos/flinto.png",
+              "enabled": true
             }
           ]
         },
@@ -1016,14 +1024,6 @@
               "href": "https://www.adobe.com/cn/products/aftereffects/",
               "description": "电影般的视觉效果和动态图形。",
               "icon": "/assets/images/logos/AdobeAfterEffectsCC.png",
-              "enabled": true
-            },
-            {
-              "id": "6_3",
-              "title": "flinto",
-              "href": "https://www.flinto.com/",
-              "description": "Flinto is a Mac app used by top designers around the world to create interactive and animated prototypes of their app designs.",
-              "icon": "/assets/images/logos/flinto.png",
               "enabled": true
             },
             {
