@@ -344,6 +344,14 @@
           ]
         },
         {
+          "id": "230cc5c5-7ff7-4890-9343-8e5e7fc10cb6",
+          "title": "开发者",
+          "icon": "Network",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "318c339b-617e-4d44-ae8c-3f3918fd291c",
           "title": "邮箱",
           "icon": "Mail",
@@ -400,14 +408,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "230cc5c5-7ff7-4890-9343-8e5e7fc10cb6",
-          "title": "开发者",
-          "icon": "Network",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
