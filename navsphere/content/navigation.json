@@ -81,6 +81,14 @@
               "description": "Chat with DeepSeek AI – your intelligent assistant for coding, content creation, file reading, and more. Upload documents, engage in long-context conversations, and get expert help in AI, natural language processing, and beyond. | 深度求索（DeepSeek）助力编程代码开发、创意写作、文件处理等任务，支持文件上传及长文本对话，随时为您提供高效的AI支持。",
               "icon": "/assets/favicon_1754218571142.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1754616794690_lo85bgs85",
+              "title": "Kimi - 会推理解析，能深度思考的AI助手",
+              "href": "https://www.kimi.com/",
+              "description": "Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧 | Kimi - Moonshot AI 出品的智能助手",
+              "icon": "/assets/favicon_1754616786288.ico",
+              "enabled": true
             }
           ]
         }
