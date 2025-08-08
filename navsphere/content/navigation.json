@@ -63,7 +63,16 @@
           "icon": "Users",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754623609932_pn7rb9yz2",
+              "title": "Sina Visitor System",
+              "href": "https://weibo.com/newlogin?tabtype=weibo&gid=102803&openLoginLayer=0&url=https%3A%2F%2Fweibo.com%2F",
+              "description": "新浪微博",
+              "icon": "/assets/favicon_1754623586668.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "c1306716-6b08-40ac-9807-4906442ae01a",
