@@ -572,6 +572,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "b889eb87-de09-4ab6-b178-2bfa6389d34b",
+          "title": "排版工具",
+          "icon": "Edit",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
