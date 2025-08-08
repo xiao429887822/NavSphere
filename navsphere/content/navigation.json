@@ -751,14 +751,6 @@
               "enabled": true
             },
             {
-              "id": "1736912680039",
-              "title": "小红书创作中心",
-              "href": "https://creator.xiaohongshu.com/",
-              "description": "小红书创作中心",
-              "icon": "/assets/img_1736912766835.png",
-              "enabled": true
-            },
-            {
               "id": "1754622584478",
               "title": "百家号——从这里影响世界",
               "href": "https://baijiahao.baidu.com/",
@@ -772,6 +764,14 @@
               "href": "https://mp.dayu.com/",
               "description": "大鱼号是阿里文娱体系为内容创作者提供的统一账号。大鱼号实现了阿里文娱体系一点接入，多点分发。内容创作者一点接入大鱼号，上传图文/视频可被分发到UC、优酷、土豆、淘系客户端，未来还会扩展到豌豆荚、神马搜索、PP助手等。",
               "icon": "/assets/favicon_1754622655247.ico",
+              "enabled": true
+            },
+            {
+              "id": "1736912680039",
+              "title": "小红书创作中心",
+              "href": "https://creator.xiaohongshu.com/",
+              "description": "小红书创作中心",
+              "icon": "/assets/img_1736912766835.png",
               "enabled": true
             },
             {
