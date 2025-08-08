@@ -139,6 +139,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "09430f4b-9ab8-4131-8b6a-437463cbeaf8",
+          "title": "政府资讯",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
