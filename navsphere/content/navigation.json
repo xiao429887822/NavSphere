@@ -55,7 +55,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754625273889",
+              "title": "荔枝网",
+              "href": "https://www.gdtv.cn/",
+              "description": "",
+              "icon": "/assets/favicon_1754625277719.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "58429f15-bc48-4210-8169-5ad361b2860a",
