@@ -843,6 +843,14 @@
               "description": "海量设计模板加持不会PS也能轻松搞定设计，在线设计海报、简历、PPT、名片、宣传单、邀请函、Logo等多种设计需求场景，3秒抠图、批量套版、AI辅助设计实用便捷。海量正版授权资源，商用无忧。",
               "icon": "/assets/favicon_1754624564993.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754624612029_taurldnr1",
+              "title": "有道云笔记｜亿万用户的选择",
+              "href": "https://note.youdao.com/",
+              "description": "有道云笔记是一款多平台记录工具，支持扫描、语音、Markdown、收藏等多种记录方式，内容多端实时同步。强大的AI工具带来全方位赋能，帮你提效减负；微信、微博等优质内容一键收藏到笔记，全面助力高效学习和工作。",
+              "icon": "/assets/favicon_1754624603541.ico",
+              "enabled": true
             }
           ]
         },
