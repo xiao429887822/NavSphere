@@ -340,6 +340,14 @@
               "description": "百度翻译打造的新一代AI大模型翻译平台，为用户提供翻译和阅读外文场景的一站式智能解决方案，支持中文、英文、日语、韩语、德语、法语等203种语言，包括文档翻译、AI翻译、英文润色、双语审校、语法分析等多种能力，是智能时代的翻译新质生产力。",
               "icon": "/assets/favicon_1754617162940.ico",
               "enabled": true
+            },
+            {
+              "id": "3_1",
+              "title": "TableConvert",
+              "href": "https://tableconvert.com/",
+              "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
+              "icon": "/assets/images/logos/tableconvert.png",
+              "enabled": true
             }
           ]
         },
@@ -918,14 +926,6 @@
           "icon": "Folder",
           "description": "",
           "items": [
-            {
-              "id": "3_1",
-              "title": "TableConvert",
-              "href": "https://tableconvert.com/",
-              "description": "Excel转sql在线工具。将你的Excel数据转换成一个网络友好格式,包括HTML、JSON和XML,还可以把Excel 转换成Sql,excel 表格转成 Markdown",
-              "icon": "/assets/images/logos/tableconvert.png",
-              "enabled": true
-            },
             {
               "id": "3_2",
               "title": "JSON Editor Online",
