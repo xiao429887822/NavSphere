@@ -781,6 +781,14 @@
               "description": "头条号 - 你创作的，就是头条",
               "icon": "/assets/favicon_1754622701700.png",
               "enabled": true
+            },
+            {
+              "id": "1754622721202",
+              "title": "简书 - 创作你的创作",
+              "href": "https://www.jianshu.com/",
+              "description": "简书是一个优质的创作社区，在这里，你可以任性地创作，一篇短文、一张照片、一首诗、一幅画……我们相信，每个人都是生活中的艺术家，有着无穷的创造力。",
+              "icon": "/assets/favicon_1754622724234.ico",
+              "enabled": true
             }
           ]
         },
