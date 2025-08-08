@@ -90,14 +90,6 @@
           "enabled": true,
           "items": [
             {
-              "id": "site_1754623728292_jalaabpv6",
-              "title": "淘宝",
-              "href": "https://www.taobao.com/",
-              "description": "淘宝网 - 亚洲较大的网上交易平台，提供各类服饰、美容、家居、数码、话费/点卡充值… 数亿优质商品，同时提供担保交易(先收货后付款)等安全交易保障服务，并由商家提供退货承诺、破损补寄等消费者保障服务，让你安心享受网上购物乐趣！",
-              "icon": "/assets/favicon_1754623721027.ico",
-              "enabled": true
-            },
-            {
               "id": "site_1754623752092_j44tehxwh",
               "title": "天猫Tmall.com - 买正品上天猫就购了",
               "href": "https://www.tmall.com/",
@@ -671,7 +663,16 @@
           "icon": "Coffee",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754623728292_jalaabpv6",
+              "title": "淘宝",
+              "href": "https://www.taobao.com/",
+              "description": "淘宝网 - 亚洲较大的网上交易平台，提供各类服饰、美容、家居、数码、话费/点卡充值… 数亿优质商品，同时提供担保交易(先收货后付款)等安全交易保障服务，并由商家提供退货承诺、破损补寄等消费者保障服务，让你安心享受网上购物乐趣！",
+              "icon": "/assets/favicon_1754623721027.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "19de8d47-983b-4f55-9b9a-a31f7ebc18ba",
