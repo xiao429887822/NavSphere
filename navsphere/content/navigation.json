@@ -434,6 +434,147 @@
       "subCategories": []
     },
     {
+      "id": "1754578454933",
+      "title": "自媒体",
+      "icon": "LayoutGrid",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": [
+        {
+          "id": "1d96d21b-4854-411e-b026-b4493377155c",
+          "title": "自媒体平台",
+          "icon": "LayoutList",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1736913194873",
+              "title": "公众号助手",
+              "href": "https://mp.weixin.qq.com/",
+              "description": "公众号管理平台",
+              "icon": "/assets/img_1736913249592.png",
+              "enabled": true
+            },
+            {
+              "id": "1736912858570",
+              "title": "视频号助手",
+              "href": "https://channels.weixin.qq.com",
+              "description": "视频号助手，视频号创作站点",
+              "icon": "/assets/img_1736912962033.png",
+              "enabled": true
+            },
+            {
+              "id": "1754622584478",
+              "title": "百家号——从这里影响世界",
+              "href": "https://baijiahao.baidu.com/",
+              "description": "百家号，是百度为创作者打造的集创作、发布、变现于一体的内容创作平台，也是众多企业号实现营销转化的运营新阵地。",
+              "icon": "/assets/favicon_1754622613815.ico",
+              "enabled": true
+            },
+            {
+              "id": "1754622650185",
+              "title": "大鱼号官网",
+              "href": "https://mp.dayu.com/",
+              "description": "大鱼号是阿里文娱体系为内容创作者提供的统一账号。大鱼号实现了阿里文娱体系一点接入，多点分发。内容创作者一点接入大鱼号，上传图文/视频可被分发到UC、优酷、土豆、淘系客户端，未来还会扩展到豌豆荚、神马搜索、PP助手等。",
+              "icon": "/assets/favicon_1754622655247.ico",
+              "enabled": true
+            },
+            {
+              "id": "1736912680039",
+              "title": "小红书创作中心",
+              "href": "https://creator.xiaohongshu.com/",
+              "description": "小红书创作中心",
+              "icon": "/assets/img_1736912766835.png",
+              "enabled": true
+            },
+            {
+              "id": "1754622689286",
+              "title": "头条号 - 你创作的，就是头条",
+              "href": "https://mp.toutiao.com/",
+              "description": "头条号 - 你创作的，就是头条",
+              "icon": "/assets/favicon_1754622701700.png",
+              "enabled": true
+            },
+            {
+              "id": "1754622721202",
+              "title": "简书 - 创作你的创作",
+              "href": "https://www.jianshu.com/",
+              "description": "简书是一个优质的创作社区，在这里，你可以任性地创作，一篇短文、一张照片、一首诗、一幅画……我们相信，每个人都是生活中的艺术家，有着无穷的创造力。",
+              "icon": "/assets/favicon_1754622724234.ico",
+              "enabled": true
+            },
+            {
+              "id": "1754622766616",
+              "title": "美篇电脑版，在电脑端开始你的文章创作！",
+              "href": "https://www.meipian.cn/mine",
+              "description": "美篇电脑版，在电脑端开始你的文章创作！",
+              "icon": "/assets/favicon_1754622772300.ico",
+              "enabled": true
+            },
+            {
+              "id": "1754622785656",
+              "title": "趣头条自媒体平台-保护鼓励原创,营造内容生态圈！",
+              "href": "https://mp.qutoutiao.net/",
+              "description": "趣头条自媒体平台-保护鼓励原创,营造内容生态圈！",
+              "icon": "/assets/favicon_1754622791625.ico",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "b889eb87-de09-4ab6-b178-2bfa6389d34b",
+          "title": "排版工具",
+          "icon": "Edit",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1735456910129",
+              "title": "WeChat Markdown Editor",
+              "href": "https://doocs.github.io/md/",
+              "description": "WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
+              "icon": "/assets/img_1735433660193.png",
+              "enabled": true
+            },
+            {
+              "id": "1737961258110",
+              "title": "mdnice",
+              "href": "https://editor.mdnice.com/",
+              "description": "微信公众号样式一键转换，知乎/语雀专属排版优化",
+              "icon": "/assets/img_1737961266055.png",
+              "enabled": true
+            }
+          ]
+        },
+        {
+          "id": "c1212a9e-dda3-4e20-b3f0-58f1d7e1c485",
+          "title": "录屏工具",
+          "icon": "Video",
+          "description": "",
+          "enabled": true,
+          "items": [
+            {
+              "id": "1753395646962",
+              "title": "Screenity",
+              "href": "https://screenity.io/",
+              "description": "开源免费的 chrome 录屏插件。",
+              "icon": "/assets/img_1753395904831.png",
+              "enabled": true
+            },
+            {
+              "id": "1753396049185",
+              "title": "Cursorful",
+              "href": "https://cursorful.com/",
+              "description": "具有自动缩放功能的屏幕录像 使用 Cursorful 浏览器扩展程序录制精美的屏幕录像跟随光标缩放或在编辑器中加载您自己的视频并可以手动添加缩放。",
+              "icon": "/assets/img_1753396105178.png",
+              "enabled": true
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id": "1754577722718",
       "title": "百宝箱",
       "icon": "LayoutGrid",
@@ -738,147 +879,6 @@
               "href": "https://www.alipan.com/",
               "description": "阿里云盘是一款速度快、不打扰、够安全、易于分享的个人网盘，欢迎你来体验。",
               "icon": "/assets/favicon_1754617630009.ico",
-              "enabled": true
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "1754578454933",
-      "title": "自媒体",
-      "icon": "LayoutGrid",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": [
-        {
-          "id": "1d96d21b-4854-411e-b026-b4493377155c",
-          "title": "自媒体平台",
-          "icon": "LayoutList",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1736913194873",
-              "title": "公众号助手",
-              "href": "https://mp.weixin.qq.com/",
-              "description": "公众号管理平台",
-              "icon": "/assets/img_1736913249592.png",
-              "enabled": true
-            },
-            {
-              "id": "1736912858570",
-              "title": "视频号助手",
-              "href": "https://channels.weixin.qq.com",
-              "description": "视频号助手，视频号创作站点",
-              "icon": "/assets/img_1736912962033.png",
-              "enabled": true
-            },
-            {
-              "id": "1754622584478",
-              "title": "百家号——从这里影响世界",
-              "href": "https://baijiahao.baidu.com/",
-              "description": "百家号，是百度为创作者打造的集创作、发布、变现于一体的内容创作平台，也是众多企业号实现营销转化的运营新阵地。",
-              "icon": "/assets/favicon_1754622613815.ico",
-              "enabled": true
-            },
-            {
-              "id": "1754622650185",
-              "title": "大鱼号官网",
-              "href": "https://mp.dayu.com/",
-              "description": "大鱼号是阿里文娱体系为内容创作者提供的统一账号。大鱼号实现了阿里文娱体系一点接入，多点分发。内容创作者一点接入大鱼号，上传图文/视频可被分发到UC、优酷、土豆、淘系客户端，未来还会扩展到豌豆荚、神马搜索、PP助手等。",
-              "icon": "/assets/favicon_1754622655247.ico",
-              "enabled": true
-            },
-            {
-              "id": "1736912680039",
-              "title": "小红书创作中心",
-              "href": "https://creator.xiaohongshu.com/",
-              "description": "小红书创作中心",
-              "icon": "/assets/img_1736912766835.png",
-              "enabled": true
-            },
-            {
-              "id": "1754622689286",
-              "title": "头条号 - 你创作的，就是头条",
-              "href": "https://mp.toutiao.com/",
-              "description": "头条号 - 你创作的，就是头条",
-              "icon": "/assets/favicon_1754622701700.png",
-              "enabled": true
-            },
-            {
-              "id": "1754622721202",
-              "title": "简书 - 创作你的创作",
-              "href": "https://www.jianshu.com/",
-              "description": "简书是一个优质的创作社区，在这里，你可以任性地创作，一篇短文、一张照片、一首诗、一幅画……我们相信，每个人都是生活中的艺术家，有着无穷的创造力。",
-              "icon": "/assets/favicon_1754622724234.ico",
-              "enabled": true
-            },
-            {
-              "id": "1754622766616",
-              "title": "美篇电脑版，在电脑端开始你的文章创作！",
-              "href": "https://www.meipian.cn/mine",
-              "description": "美篇电脑版，在电脑端开始你的文章创作！",
-              "icon": "/assets/favicon_1754622772300.ico",
-              "enabled": true
-            },
-            {
-              "id": "1754622785656",
-              "title": "趣头条自媒体平台-保护鼓励原创,营造内容生态圈！",
-              "href": "https://mp.qutoutiao.net/",
-              "description": "趣头条自媒体平台-保护鼓励原创,营造内容生态圈！",
-              "icon": "/assets/favicon_1754622791625.ico",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "b889eb87-de09-4ab6-b178-2bfa6389d34b",
-          "title": "排版工具",
-          "icon": "Edit",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1735456910129",
-              "title": "WeChat Markdown Editor",
-              "href": "https://doocs.github.io/md/",
-              "description": "WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性",
-              "icon": "/assets/img_1735433660193.png",
-              "enabled": true
-            },
-            {
-              "id": "1737961258110",
-              "title": "mdnice",
-              "href": "https://editor.mdnice.com/",
-              "description": "微信公众号样式一键转换，知乎/语雀专属排版优化",
-              "icon": "/assets/img_1737961266055.png",
-              "enabled": true
-            }
-          ]
-        },
-        {
-          "id": "c1212a9e-dda3-4e20-b3f0-58f1d7e1c485",
-          "title": "录屏工具",
-          "icon": "Video",
-          "description": "",
-          "enabled": true,
-          "items": [
-            {
-              "id": "1753395646962",
-              "title": "Screenity",
-              "href": "https://screenity.io/",
-              "description": "开源免费的 chrome 录屏插件。",
-              "icon": "/assets/img_1753395904831.png",
-              "enabled": true
-            },
-            {
-              "id": "1753396049185",
-              "title": "Cursorful",
-              "href": "https://cursorful.com/",
-              "description": "具有自动缩放功能的屏幕录像 使用 Cursorful 浏览器扩展程序录制精美的屏幕录像跟随光标缩放或在编辑器中加载您自己的视频并可以手动添加缩放。",
-              "icon": "/assets/img_1753396105178.png",
               "enabled": true
             }
           ]
