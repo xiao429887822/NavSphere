@@ -99,6 +99,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "ce16b503-35e4-4116-9f50-12b70ee9a423",
+          "title": "AI创作",
+          "icon": "Brain",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
