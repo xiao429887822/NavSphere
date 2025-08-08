@@ -106,7 +106,16 @@
           "icon": "Brain",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754616999564",
+              "title": "即梦AI - 一站式AI创作平台",
+              "href": "https://jimeng.jianying.com/ai-tool/home/",
+              "description": "即梦AI是一个AI创作平台，可激发艺术创意、提升绘画和视频创作体验。您可以利用AI智能，将想象变为现实。即梦AI支持文字绘图、文字生成视频和图片生成视频，并提供创作灵感。让即梦AI开启您的AI生成艺术之旅，探索创造的无限可能！",
+              "icon": "/assets/favicon_1754617005315.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
