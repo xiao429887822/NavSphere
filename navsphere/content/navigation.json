@@ -672,6 +672,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "19de8d47-983b-4f55-9b9a-a31f7ebc18ba",
+          "title": "出行",
+          "icon": "User",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
