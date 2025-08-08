@@ -772,6 +772,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "f4acaefc-22af-4b5b-828c-88ee477d83ba",
+          "title": "生活",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
