@@ -1033,6 +1033,14 @@
           ]
         },
         {
+          "id": "883d516a-c868-47e9-b736-5c4e3a207f8b",
+          "title": "实用工具",
+          "icon": "Settings",
+          "description": "",
+          "enabled": true,
+          "items": []
+        },
+        {
           "id": "318c339b-617e-4d44-ae8c-3f3918fd291c",
           "title": "邮箱",
           "icon": "Mail",
@@ -1089,14 +1097,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "883d516a-c868-47e9-b736-5c4e3a207f8b",
-          "title": "实用工具",
-          "icon": "Settings",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
