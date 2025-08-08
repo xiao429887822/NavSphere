@@ -757,6 +757,14 @@
               "description": "小红书创作中心",
               "icon": "/assets/img_1736912766835.png",
               "enabled": true
+            },
+            {
+              "id": "1754622584478",
+              "title": "百家号——从这里影响世界",
+              "href": "https://baijiahao.baidu.com/",
+              "description": "百家号，是百度为创作者打造的集创作、发布、变现于一体的内容创作平台，也是众多企业号实现营销转化的运营新阵地。",
+              "icon": "/assets/favicon_1754622613815.ico",
+              "enabled": true
             }
           ]
         },
