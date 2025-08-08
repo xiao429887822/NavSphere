@@ -1038,7 +1038,16 @@
           "icon": "Settings",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754624871797_ku46k3n1h",
+              "title": "名片全能王：团队与专业人士的最佳数字名片解决方案",
+              "href": "https://www.camcard.com/zh-cn/",
+              "description": "通过团队首选的数字名片平台，赋能您的销售与营销团队。捕捉销售线索、与您的客户关系管理系统同步，并拓展您的人脉网络 — 立即预约免费示范。",
+              "icon": "/assets/favicon_1754624862282.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "318c339b-617e-4d44-ae8c-3f3918fd291c",
