@@ -679,7 +679,16 @@
           "icon": "Home",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754624248957_hm6kshkmx",
+              "title": "中国银行网站_全球门户首页",
+              "href": "https://www.boc.cn/",
+              "description": "中国银行是中国国际化和多元化程度最高的银行，在中国内地及六十多个国家和地区为客户提供全面的金融服务。主要经营商业银行业务：公司金融、个人金融和金融市场业务，并通过附属机构开展投资银行、保险、直接投资、投资管理、基金管理和飞机租赁业务。",
+              "icon": "/assets/favicon_1754624240820.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
