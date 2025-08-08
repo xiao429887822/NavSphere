@@ -1377,6 +1377,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "25add0fb-2c98-482e-9acc-ecd39c76924a",
+          "title": "开源平台",
+          "icon": "FolderOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
