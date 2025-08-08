@@ -81,14 +81,6 @@
               "enabled": true
             }
           ]
-        },
-        {
-          "id": "c1306716-6b08-40ac-9807-4906442ae01a",
-          "title": "购物",
-          "icon": "Coffee",
-          "description": "",
-          "enabled": true,
-          "items": []
         }
       ]
     },
