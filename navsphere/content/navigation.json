@@ -538,6 +538,14 @@
               "description": "OSCHINA.NET 是目前领先的中文开源技术社区。我们传播开源的理念，推广开源项目，为 IT 开发者提供了一个发现、使用、并交流开源技术的平台",
               "icon": "/assets/favicon_1754633707712.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754633761656_3m6edih6g",
+              "title": "网页制作教程,web开发,游戏下载,软件下载,-阿里西西",
+              "href": "https://www.alixixi.com/",
+              "description": "阿里西西是集合了网页制作教程，web开发，手游游戏，手机软件，游戏攻略，游戏资讯，网页制作，js网页特效，单机游戏，广告代码，街机游戏，网站源码等内容的综合型下载站点",
+              "icon": "/assets/favicon_1754633746787.ico",
+              "enabled": true
             }
           ]
         }
