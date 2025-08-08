@@ -461,6 +461,14 @@
               "description": "色彩搭配",
               "icon": "/assets/images/logos/colorhunt.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754619617043_6tgz0bpkh",
+              "title": "adobe",
+              "href": "https://www.adobe.com/cn/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
