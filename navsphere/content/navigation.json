@@ -89,6 +89,14 @@
               "description": "Kimi 是一个有着超大“内存”的智能助手，可以一口气读完二十万字的小说，还会上网冲浪，快来跟他聊聊吧 | Kimi - Moonshot AI 出品的智能助手",
               "icon": "/assets/favicon_1754616786288.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754616826554_wmwzu0gv8",
+              "title": "秘塔AI搜索",
+              "href": "https://metaso.cn/?s=bdpc",
+              "description": "秘塔AI搜索，没有广告，直达结果",
+              "icon": "/assets/favicon_1754616814669.png",
+              "enabled": true
             }
           ]
         }
