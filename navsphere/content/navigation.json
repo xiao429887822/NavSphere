@@ -364,6 +364,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "3afea9a5-8373-4a25-8a9d-a7a3dc70e7e1",
+          "title": "漫画",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
