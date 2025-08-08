@@ -291,6 +291,14 @@
               "description": "选择一张图片并消除背景 - 100% 全自动 - 仅用 5 秒钟 - 无需点击 - 而且免费。",
               "icon": "/assets/favicon_1754617059247.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754617113778_ucq19fb3p",
+              "title": "图文工具箱 - imgtool.net",
+              "href": "https://imgtool.net/#google_vignette",
+              "description": "图文工具箱是一个在线工具网站，提供PDF合并、图片转PDF、PDF转图片、PDF拆分、图片压缩、PDF转Word、证件照换底色、图片分割、宫格拼图、图片加水印、PDF去水印等常用图片工具和PDF工具。",
+              "icon": "/assets/favicon_1754617105233.ico",
+              "enabled": true
             }
           ]
         }
