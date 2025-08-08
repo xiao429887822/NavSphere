@@ -522,7 +522,7 @@
           "title": "AI助手",
           "icon": "Book",
           "description": "",
-          "enabled": true,
+          "enabled": false,
           "items": [
             {
               "id": "9_1",
