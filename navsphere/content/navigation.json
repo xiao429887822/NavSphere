@@ -517,6 +517,15 @@
       ]
     },
     {
+      "id": "1754623969296",
+      "title": "衣食住行",
+      "icon": "Users",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1754578454933",
       "title": "自媒体",
       "icon": "LayoutGrid",
@@ -967,15 +976,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754623969296",
-      "title": "衣食住行",
-      "icon": "Users",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "8",
