@@ -969,6 +969,15 @@
       ]
     },
     {
+      "id": "1754623969296",
+      "title": "衣食住行",
+      "icon": "Users",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "8",
       "title": "素材资源",
       "icon": "linecons-thumbs-up",
@@ -1146,15 +1155,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754623969296",
-      "title": "衣食住行",
-      "icon": "Users",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "1",
