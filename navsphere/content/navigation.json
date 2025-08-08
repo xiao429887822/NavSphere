@@ -1003,6 +1003,14 @@
           "enabled": true,
           "items": [
             {
+              "id": "1754634125331",
+              "title": "GitHub中文社区",
+              "href": "https://www.github-zh.com/",
+              "description": "重要提示原githubs.cn已无法访问，域名已变更为github-zh.com。GitHub是世界上最大的代码托管平台，超7千万开发者正在使用。GitHub中文社区，是国内领先的开源社区，是一个帮您发现GitHub上优质开源项目的地方。提供GitHub趋势，GitHub排行榜，GitHub分类检索，中文翻译等实用功能",
+              "icon": "/assets/favicon_1754634132011.ico",
+              "enabled": true
+            },
+            {
               "id": "1735612561958",
               "title": "Cloudflare",
               "href": "https://dash.cloudflare.com/",
@@ -1040,14 +1048,6 @@
               "href": "https://github.com/settings/developers",
               "description": "GitHub is where people build software. More than 150 million people use GitHub to discover, fork, and contribute to over 420 million projects.",
               "icon": "https://github.githubassets.com/favicons/favicon",
-              "enabled": true
-            },
-            {
-              "id": "1754634125331",
-              "title": "GitHub中文社区",
-              "href": "https://www.github-zh.com/",
-              "description": "重要提示原githubs.cn已无法访问，域名已变更为github-zh.com。GitHub是世界上最大的代码托管平台，超7千万开发者正在使用。GitHub中文社区，是国内领先的开源社区，是一个帮您发现GitHub上优质开源项目的地方。提供GitHub趋势，GitHub排行榜，GitHub分类检索，中文翻译等实用功能",
-              "icon": "/assets/favicon_1754634132011.ico",
               "enabled": true
             }
           ]
