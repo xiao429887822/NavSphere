@@ -439,6 +439,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "355b5e53-728c-4572-bf82-189d0b003d18",
+          "title": "技能学习",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
