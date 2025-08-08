@@ -317,6 +317,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "640a30d1-33b5-4987-a8e0-624a03cc935c",
+          "title": "网盘",
+          "icon": "Database",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
