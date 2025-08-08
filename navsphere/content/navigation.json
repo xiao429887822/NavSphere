@@ -64,6 +64,14 @@
           "description": "",
           "enabled": true,
           "items": []
+        },
+        {
+          "id": "58429f15-bc48-4210-8169-5ad361b2860a",
+          "title": "社区互动",
+          "icon": "Users",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
