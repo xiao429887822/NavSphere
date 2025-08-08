@@ -188,6 +188,14 @@
               "description": "Introducing the Windsurf Editor\nThe new purpose-built IDE to harness magic",
               "icon": "/assets/img_1737529843741.png",
               "enabled": true
+            },
+            {
+              "id": "1752662613676",
+              "title": "Kiro",
+              "href": "https://kiro.dev/",
+              "description": "The AI IDE for prototype to production\n",
+              "icon": "/assets/img_1752662633580.png",
+              "enabled": true
             }
           ]
         }
@@ -1055,14 +1063,6 @@
               "href": "https://github.com/features/copilot",
               "description": "The AI editor for everyone",
               "icon": "/assets/img_1737530043708.png",
-              "enabled": true
-            },
-            {
-              "id": "1752662613676",
-              "title": "Kiro",
-              "href": "https://kiro.dev/",
-              "description": "The AI IDE for prototype to production\n",
-              "icon": "/assets/img_1752662633580.png",
               "enabled": true
             },
             {
