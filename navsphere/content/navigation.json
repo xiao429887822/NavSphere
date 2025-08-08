@@ -664,7 +664,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "22199d53-d643-4e2e-8bee-05509081eb59",
+          "title": "购物",
+          "icon": "Coffee",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754577722718",
