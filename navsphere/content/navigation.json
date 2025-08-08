@@ -1089,6 +1089,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "883d516a-c868-47e9-b736-5c4e3a207f8b",
+          "title": "实用工具",
+          "icon": "Settings",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
