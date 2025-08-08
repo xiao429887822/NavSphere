@@ -779,7 +779,16 @@
           "icon": "Globe",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "site_1754625520509_duus6ph1l",
+              "title": "天气网",
+              "href": "https://www.weather.com.cn/",
+              "description": "官方权威发布天气预报,逐三小时天气预报,提供天气预报查询一周,天气预报15天查询,天气预报40天查询,天气资讯,空气质量,生活指数,旅游出行,交通天气等查询服务",
+              "icon": "/assets/favicon_1754625512539.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
