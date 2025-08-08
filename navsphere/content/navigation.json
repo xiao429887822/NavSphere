@@ -431,7 +431,16 @@
       "description": "",
       "enabled": true,
       "items": [],
-      "subCategories": []
+      "subCategories": [
+        {
+          "id": "400a18b8-56f7-489d-b047-4fa3b5a4d950",
+          "title": "教育平台",
+          "icon": "Book",
+          "description": "",
+          "enabled": true,
+          "items": []
+        }
+      ]
     },
     {
       "id": "1754578454933",
