@@ -859,6 +859,14 @@
               "description": "",
               "icon": "/assets/favicon_1754624631239.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754624667229_o6wgd8wwc",
+              "title": "在线绘图、图表制作、流程图制作、云架构设计、UML工具、网络拓扑图制作-裕奥在线制图工具|Freedgo Design",
+              "href": "https://www.freedgo.com/draw-index.html",
+              "description": "轻松、快速、协作地创建各种专业图表。57doc Design 是多种类型图表的在线绘制软件,让您创建 系统部署图 软件架构图, UML,BPMN,ER模型,DFD,组织图,软件流程图,图表。立即开始免费试用",
+              "icon": "/assets/favicon_1754624659973.png",
+              "enabled": true
             }
           ]
         },
