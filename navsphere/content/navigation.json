@@ -670,6 +670,14 @@
               "description": "JD.com is the largest retailer in China, a member of the NASDAQ100 and a Fortune Global 500 company.",
               "icon": "/assets/favicon_1754623769173.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754624956229_x1hk4wk2k",
+              "title": "Xiaomi® UK | Buy Mobiles, Watches, Smart Electronics Online",
+              "href": "https://www.mi.com/",
+              "description": "Buy Xiaomi Products from Xiaomi® official store with big discounts & fast shipping! Best prices for Xiaomi, Redmi, POCO phones, bands, buds and home devices.",
+              "icon": "/assets/favicon_1754624948861.png",
+              "enabled": true
             }
           ]
         },
