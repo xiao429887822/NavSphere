@@ -316,7 +316,16 @@
           "icon": "Mail",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754617286164",
+              "title": "QQ邮箱",
+              "href": "https://mail.qq.com/",
+              "description": "QQ邮箱",
+              "icon": "https://wx.mail.qq.com/favicon.ico",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "640a30d1-33b5-4987-a8e0-624a03cc935c",
