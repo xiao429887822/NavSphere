@@ -408,6 +408,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "2024354f-8097-4568-8325-2d15530082a8",
+          "title": "UI创意",
+          "icon": "Palette",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
