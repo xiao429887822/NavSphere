@@ -357,7 +357,16 @@
           "icon": "Palette",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "4_1",
+              "title": "photoshop",
+              "href": "https://www.adobe.com/cn/products/photoshop.html",
+              "description": "Photoshop不需要解释",
+              "icon": "/assets/images/logos/photoshop.png",
+              "enabled": true
+            }
+          ]
         },
         {
           "id": "318c339b-617e-4d44-ae8c-3f3918fd291c",
@@ -951,14 +960,6 @@
           "icon": "Folder",
           "description": "",
           "items": [
-            {
-              "id": "4_1",
-              "title": "photoshop",
-              "href": "https://www.adobe.com/cn/products/photoshop.html",
-              "description": "Photoshop不需要解释",
-              "icon": "/assets/images/logos/photoshop.png",
-              "enabled": true
-            },
             {
               "id": "4_2",
               "title": "Affinity Designer",
