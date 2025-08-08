@@ -48,6 +48,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "967ee74b-a9e6-4578-b571-008793f8cfc5",
+          "title": "新闻资讯",
+          "icon": "Globe",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
