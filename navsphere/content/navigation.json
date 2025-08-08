@@ -1496,6 +1496,15 @@
       ],
       "description": "",
       "enabled": false
+    },
+    {
+      "id": "1754623969296",
+      "title": "衣食住行",
+      "icon": "Users",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
     }
   ]
 }
