@@ -604,7 +604,16 @@
           "icon": "Video",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1753395646962",
+              "title": "Screenity",
+              "href": "https://screenity.io/",
+              "description": "开源免费的 chrome 录屏插件。",
+              "icon": "/assets/img_1753395904831.png",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
@@ -1168,14 +1177,6 @@
           "description": "",
           "enabled": true,
           "items": [
-            {
-              "id": "1753395646962",
-              "title": "Screenity",
-              "href": "https://screenity.io/",
-              "description": "开源免费的 chrome 录屏插件。",
-              "icon": "/assets/img_1753395904831.png",
-              "enabled": true
-            },
             {
               "id": "1753396049185",
               "title": "Cursorful",
