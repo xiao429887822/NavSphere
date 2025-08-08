@@ -425,6 +425,15 @@
       ]
     },
     {
+      "id": "1754623364336",
+      "title": "学习教育",
+      "icon": "BookOpen",
+      "description": "",
+      "enabled": true,
+      "items": [],
+      "subCategories": []
+    },
+    {
       "id": "1754577722718",
       "title": "百宝箱",
       "icon": "LayoutGrid",
@@ -734,15 +743,6 @@
           ]
         }
       ]
-    },
-    {
-      "id": "1754623364336",
-      "title": "学习教育",
-      "icon": "BookOpen",
-      "description": "",
-      "enabled": true,
-      "items": [],
-      "subCategories": []
     },
     {
       "id": "1754578454933",
