@@ -916,6 +916,14 @@
               "description": "Netlify is the essential platform for the delivery of exceptional and dynamic web experiences, without limitations.",
               "icon": "/assets/img_1735612745862.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754624904077_crjgy66zu",
+              "title": "UCloud优刻得-首家公有云科创板上市公司",
+              "href": "https://www.ucloud.cn/",
+              "description": "UCloud(优刻得)是中国知名的中立云计算服务商，科创板上市(股票代码：688158)，中国云计算第一股，专注于提供可靠的企业级云服务，包括云服务器、云主机、云数据库、混合云、CDN、人工智能等服务",
+              "icon": "/assets/favicon_1754624894058.ico",
+              "enabled": true
             }
           ]
         },
