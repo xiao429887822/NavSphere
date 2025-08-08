@@ -295,6 +295,14 @@
               "description": "电影港 高清电影下载",
               "icon": "/assets/favicon_1754621597661.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754622105124_fscgoerwk",
+              "title": "打工人影院",
+              "href": "https://dagongren2.com/",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
