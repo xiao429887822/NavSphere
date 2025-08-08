@@ -797,6 +797,14 @@
               "description": "美篇电脑版，在电脑端开始你的文章创作！",
               "icon": "/assets/favicon_1754622772300.ico",
               "enabled": true
+            },
+            {
+              "id": "1754622785656",
+              "title": "趣头条自媒体平台-保护鼓励原创,营造内容生态圈！",
+              "href": "https://mp.qutoutiao.net/",
+              "description": "趣头条自媒体平台-保护鼓励原创,营造内容生态圈！",
+              "icon": "/assets/favicon_1754622791625.ico",
+              "enabled": true
             }
           ]
         },
