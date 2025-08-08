@@ -299,6 +299,14 @@
               "description": "图文工具箱是一个在线工具网站，提供PDF合并、图片转PDF、PDF转图片、PDF拆分、图片压缩、PDF转Word、证件照换底色、图片分割、宫格拼图、图片加水印、PDF去水印等常用图片工具和PDF工具。",
               "icon": "/assets/favicon_1754617105233.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754617172162_1b5rr0b4a",
+              "title": "百度翻译-您的超级翻译伙伴（文本、文档翻译）",
+              "href": "https://fanyi.baidu.com/mtpe-individual/transText?ext_channel=DuSearch",
+              "description": "百度翻译打造的新一代AI大模型翻译平台，为用户提供翻译和阅读外文场景的一站式智能解决方案，支持中文、英文、日语、韩语、德语、法语等203种语言，包括文档翻译、AI翻译、英文润色、双语审校、语法分析等多种能力，是智能时代的翻译新质生产力。",
+              "icon": "/assets/favicon_1754617162940.ico",
+              "enabled": true
             }
           ]
         }
