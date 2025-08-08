@@ -283,6 +283,14 @@
               "description": "腾讯文档-官方网站-支持多人在线编辑Word、Excel和PPT文档",
               "icon": "/assets/favicon_1754578767866.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754617073458_sq411qauk",
+              "title": "上传图片 – remove.bg",
+              "href": "https://www.remove.bg/zh/upload",
+              "description": "选择一张图片并消除背景 - 100% 全自动 - 仅用 5 秒钟 - 无需点击 - 而且免费。",
+              "icon": "/assets/favicon_1754617059247.png",
+              "enabled": true
             }
           ]
         }
