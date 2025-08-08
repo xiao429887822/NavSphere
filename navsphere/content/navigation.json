@@ -851,6 +851,14 @@
               "description": "有道云笔记是一款多平台记录工具，支持扫描、语音、Markdown、收藏等多种记录方式，内容多端实时同步。强大的AI工具带来全方位赋能，帮你提效减负；微信、微博等优质内容一键收藏到笔记，全面助力高效学习和工作。",
               "icon": "/assets/favicon_1754624603541.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1754624642117_s3lc5n5y3",
+              "title": "微信网页版",
+              "href": "https://wx.qq.com/",
+              "description": "",
+              "icon": "/assets/favicon_1754624631239.ico",
+              "enabled": true
             }
           ]
         },
