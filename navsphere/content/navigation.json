@@ -596,6 +596,14 @@
               "enabled": true
             }
           ]
+        },
+        {
+          "id": "3d5c47ee-5cfa-4e15-b315-cbe6ebf95030",
+          "title": "学科知识",
+          "icon": "BookOpen",
+          "description": "",
+          "enabled": true,
+          "items": []
         }
       ]
     },
