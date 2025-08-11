@@ -212,6 +212,14 @@
               "description": "Anthropic开发的AI助手，擅长分析和创作。",
               "icon": "/assets/images/logos/claude.png",
               "enabled": true
+            },
+            {
+              "id": "site_1754887912848_ivtzczxf5",
+              "title": "Grok",
+              "href": "https://grok.dairoot.cn ",
+              "description": "",
+              "icon": "",
+              "enabled": true
             }
           ]
         },
