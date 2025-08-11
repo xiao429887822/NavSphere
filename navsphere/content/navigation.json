@@ -620,7 +620,16 @@
           "icon": "Book",
           "description": "",
           "enabled": true,
-          "items": []
+          "items": [
+            {
+              "id": "1754901754891",
+              "title": "BeddyStories - 全球经典儿童睡前故事库（0-12岁）",
+              "href": "https://beddystories.com/zh",
+              "description": "探索来自世界各地的精选睡前故事，让孩子在温馨的故事中进入梦乡",
+              "icon": "/assets/favicon_1754901757245.ico",
+              "enabled": true
+            }
+          ]
         }
       ]
     },
