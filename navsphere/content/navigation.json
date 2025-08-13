@@ -1130,6 +1130,14 @@
               "description": "",
               "icon": "/assets/favicon_1755053089163.svg",
               "enabled": true
+            },
+            {
+              "id": "site_1755053243641_dhsb0s4bx",
+              "title": "记灵在线工具 - 更专注于发现工具的实用性",
+              "href": "https://remeins.com/",
+              "description": "记灵在线工具，更加专注于生活中常用的，好用的实用性工具。目前已经推出了PDF工具、音频工具、视频工具、图片工具、文档工具、文字工具等日常高频率使用的在线工具。",
+              "icon": "/assets/favicon_1755053235599.ico",
+              "enabled": true
             }
           ]
         },
