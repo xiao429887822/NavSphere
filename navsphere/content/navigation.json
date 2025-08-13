@@ -253,6 +253,14 @@
               "description": "使用我们前沿的AI技术，数秒内克隆您的声音。用您自己的声音从任何文本创建自然流畅的语音。免费且安全的声音克隆服务。",
               "icon": "/assets/favicon_1754636465786.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755066694225_b0emdwu0k",
+              "title": "Seko - World Class AI Video Generation Platform | Create Professional\n      Videos with AI",
+              "href": "https://seko.sensetime.com",
+              "description": "Seko is a cutting-edge AI video generation platform that transforms your ideas into stunning professional videos. Create, edit, and customize videos with advanced AI technology. Join thousands of creators worldwide.",
+              "icon": "/assets/favicon_1755066633337.svg",
+              "enabled": true
             }
           ]
         },
