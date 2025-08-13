@@ -1122,6 +1122,14 @@
               "description": "云展网办公工具集内置强大的PDF转换器、音频工具和图片压缩拼接工具等，这些工具能在线使用，可以为用户解决PDF怎么转换成Word等难题，而且云展网办公工具集是永久免费！无广告！无限制！输出的文件没任何水印！",
               "icon": "/assets/favicon_1755053007131.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755053099033_hvt8cqrxp",
+              "title": "Web Apps by 123apps - 编辑、转换、创建",
+              "href": "https://123apps.com/cn/",
+              "description": "",
+              "icon": "/assets/favicon_1755053089163.svg",
+              "enabled": true
             }
           ]
         },
