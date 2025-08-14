@@ -286,6 +286,14 @@
               "description": "Napkin turns your text into visuals so sharing your ideas is quick and effective.\n\nNapkin 能够将你的文本转化为视觉内容，使分享你的想法变得快速而有效。",
               "icon": "/assets/img_1736418335098.png",
               "enabled": true
+            },
+            {
+              "id": "site_1755154132101_zf15xif3u",
+              "title": "ima.copilot-腾讯AI工作台",
+              "href": "https://ima.qq.com/?webFrom=10000028",
+              "description": "ima.copilot（简称ima）是一款以知识库为核心的AI工作台产品，已接入腾讯混元大模型和DeepSeek R1模型满血版。ima是搜、读、写一体的效率工具，旨在帮助有较强知识获取、信息处理、内容输出需求的用户，提升学习、办公效率。",
+              "icon": "/assets/favicon_1755154108586.svg",
+              "enabled": true
             }
           ]
         },
