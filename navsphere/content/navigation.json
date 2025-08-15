@@ -491,6 +491,14 @@
               "description": "懒人听书是4.8亿用户选择的综合性有声阅读交流平台。热门IP入驻，知名主播云集，原创小说、经典文学、海量精品栏目共筑有声阅读生态圈，解放双眼，畅听世界",
               "icon": "/assets/favicon_1754637103914.ico",
               "enabled": true
+            },
+            {
+              "id": "1755235433365",
+              "title": "音乐湖 - mp3音乐下载 - 无损音乐flac,ape,mv,dj舞曲最全资源免费下载",
+              "href": "https://www.yinyuehoo.com/",
+              "description": "音乐湖「yinyuehoo.com」是最全的免费mp3音乐下载网站。收录的无损音乐格式有flac、ape、wav、dsd、mp3等，是一个精心优质的mp3无损音乐下载网站。",
+              "icon": "/assets/favicon_1755235441432.ico",
+              "enabled": true
             }
           ]
         },
