@@ -499,6 +499,14 @@
               "description": "音乐湖「yinyuehoo.com」是最全的免费mp3音乐下载网站。收录的无损音乐格式有flac、ape、wav、dsd、mp3等，是一个精心优质的mp3无损音乐下载网站。",
               "icon": "/assets/favicon_1755235441432.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755238020492_xdy7booo2",
+              "title": "布谷音乐网-在线音乐-无损音乐免费下载",
+              "href": "https://www.buguyy.top/",
+              "description": "布谷音乐网-在线音乐-无损音乐免费下载",
+              "icon": "https://www.buguyy.top/vite.svg",
+              "enabled": true
             }
           ]
         },
