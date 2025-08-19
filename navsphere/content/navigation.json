@@ -1603,6 +1603,14 @@
               "description": "51Aspx为全球华人提供Asp.net源码高速下载，包括网站源码、软件源码、小程序源码等免费、共享和商业等授权类型源码，更多Asp源码下载信息，请关注51Aspx.com",
               "icon": "/assets/favicon_1754633676255.ico",
               "enabled": true
+            },
+            {
+              "id": "site_1755585644889_rnxlgbbpd",
+              "title": "吾爱破解 - 52pojie.cn",
+              "href": "https://www.52pojie.cn/",
+              "description": "吾爱破解 - 52pojie.cn",
+              "icon": "/assets/favicon_1755585603644.svg",
+              "enabled": true
             }
           ]
         }
